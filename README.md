@@ -2,9 +2,6 @@
 
 > A modern, responsive, and animated portfolio website built with React, TypeScript, and Tailwind CSS.
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/0f172a/06b6d4?text=Karthik+K+Portfolio)
-*(Replace the link above with a screenshot of your actual website once deployed)*
-
 ## 📖 About The Project
 
 This portfolio serves as a digital resume and showcase for **Karthik K**, a Hybrid Frontend Developer & UI/UX Designer. It is designed to be visually engaging, highly performant, and fully responsive across all devices.
